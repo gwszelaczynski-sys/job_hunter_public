@@ -1,0 +1,10 @@
+{
+  "full_name": "Imię Nazwisko",
+  "file_slug": "Imię Nazwisko",
+  "location": "Miasto, Kraj(Office / Remote / Hybrid)",
+  "email": "alias@domena.com",
+  "phone": "+48 000 000 000",
+  "linkedin": "linkedin.com/in/profil/",
+  "gdpr_clause_pl": "Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 (RODO).",
+  "gdpr_clause_en": "I hereby give consent for my personal data to be processed for the purposes of the recruitment process in accordance with Regulation (EU) 2016/679 (GDPR)."
+}
